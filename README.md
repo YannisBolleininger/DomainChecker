@@ -3,7 +3,8 @@
 ## Adding a Domain
 
 Create a Json in the following format:
-'''python
+```python
+
 {
         "domains": [
                 "domain_one.de",
@@ -11,7 +12,7 @@ Create a Json in the following format:
         ]
 }
 
-'''
+```
 
 ## Messaging
 [Twilio](https://console.twilio.com/us1/develop/sms/try-it-out/whatsapp-learn?frameUrl=%2Fconsole%2Fsms%2Fwhatsapp%2Flearn%3Fx-target-region%3Dus1) is used to send a Whatsapp Message to your phone
