@@ -3,7 +3,7 @@
 ## Adding a Domain
 
 Create a Json in the following format:
-'''
+'''python
 {
         "domains": [
                 "domain_one.de",
