@@ -1,7 +1,8 @@
 # Domain Checker
-*Simple python script to check if a domain is available*
-## Adding a Domain
+*Simple python script to check if a domain is available and send a message to your Whatsapp*
 
+
+## Adding a Domain
 Create a Json file in the following format:
 ```python
 
